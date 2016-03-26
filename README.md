@@ -3,7 +3,7 @@
 
 ![Auto Post URL](https://raw.github.com/Destroy666x/MyBB-Auto-Post-URL/master/preview1.png "Preview")
 
-**Name**: Auto Post URL
+**Name**: Auto Post URL  
 **Author**: Destroy666  
 **Version**: 1.0  
 
@@ -36,7 +36,7 @@ Released under GNU GPL v3, 29 June 2007. Read the LICENSE.md file for more infor
 **Templates troubleshooting**:
 ------------------------------
 
-* Postbit - add **class="post_anchor" href="{$post['postlink']}#pid{$post['pid']}" title="{$post['subject_title']}"** to the starting post URL and **<a name="bottompid{$post['pid']}" id="bottompid{$post['pid']}"></a>** at the end of postbit and postbit_classic templates
+* Postbit - add **`class="post_anchor" href="{$post['postlink']}#pid{$post['pid']}" title="{$post['subject_title']}"`** to the starting post URL and **`<a name="bottompid{$post['pid']}" id="bottompid{$post['pid']}"></a>`** at the end of postbit and postbit_classic templates
 * Showthread - add:
 ```html
 <script type="text/javascript">
