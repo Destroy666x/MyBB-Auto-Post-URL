@@ -47,7 +47,7 @@ Released under GNU GPL v3, 29 June 2007. Read the LICENSE.md file for more infor
 </script>
 <script type="text/javascript" src="{$mybb->asset_url}/jscripts/auto_post_url.js?ver=1"></script>
 ```
-to the showthread template
+to the `<head>` section of the showthread template
 
 **Note 1**: the class specified in the setting needs to be manually added to **global.css** or an other stylesheet that covers showthread, e.g.:  
 ```css
