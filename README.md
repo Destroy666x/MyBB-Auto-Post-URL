@@ -2,6 +2,7 @@
 ===============
 
 ![Auto Post URL](https://raw.github.com/Destroy666x/MyBB-Auto-Post-URL/master/preview1.png "Preview")
+[Video preview](https://youtu.be/FbFNvfBwNZY)  
 
 **Name**: Auto Post URL  
 **Author**: Destroy666  
