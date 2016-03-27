@@ -17,7 +17,7 @@ Zgłaszanie błędów: mój github - https://github.com/Destroy666x
 $l['auto_post_url'] = 'Automatyczny link do posta';
 $l['auto_post_url_info'] = 'Automatycznie ustawia link do aktualnie przeglądanego posta i opcjonalnie go wyróżnia.';
 
-$l['auto_post_url_settings'] = 'Settings for the Auto Post URL plugin.';
-$l['auto_post_url_class'] = 'Highlight Current Post';
-$l['auto_post_url_class_desc'] = "If you'd like to highlight the current post, enter a class name (not selector, so without a dot) to be used, otherwise leave the field blank.
+$l['auto_post_url_settings'] = 'Ustawienia dodatku automatyczny link do posta.';
+$l['auto_post_url_class'] = 'Podświetlanie aktualnego posta';
+$l['auto_post_url_class_desc'] = "Jeśli chcesz aby aktualny post był podświetlany inaczej niż domyślnie to wpisz tutaj nazwę klasy której chcesz użyć. W innym przypadku pozostaw pole puste.
 <br /><strong>Uwaga:</strong> wybrana klasa powinna być manualnie dodana do global.css lub innego arkusza stylu dostępnego na stronach tematu.";
